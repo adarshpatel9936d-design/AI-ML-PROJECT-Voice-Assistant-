@@ -198,9 +198,11 @@ cd OneDrive/Desktop/
 # Execute the script
 python voice_assistant.py
 ```
-
 The assistant will start immediately with a greeting.
 
 ## Conclusion
 
 This voice assistant demonstrates practical application of course concepts including exception handling, API integration, modular design, and event-driven programming. The implementation prioritizes robustness through comprehensive error handling while maintaining clear, readable code structure suitable for educational purposes.
+
+## ADARSH PATEL
+## 25BAI10252
